@@ -1,6 +1,6 @@
 # Adam Bouberka — Portfolio développeur web
 
-Développeur web junior basé entre Aix-en-Provence et Marseille. À partir de septembre 2026, je poursuis une formation **Développeur Web et Web Mobile** en alternance à 2i Academy à Aix-en-Provence et je recherche une entreprise d’accueil.
+Développeur web junior basé entre Aix-en-Provence et Marseille. À partir de septembre 2026, j’intègre la formation **Développeur Web et Web Mobile** en alternance à 2i Academy à Aix-en-Provence et je recherche une entreprise d’accueil.
 
 Je développe des sites vitrines responsive, des interfaces JavaScript et de petites applications connectées à des services externes. Je cherche à construire des projets simples à comprendre, propres à utiliser et faciles à maintenir.
 
