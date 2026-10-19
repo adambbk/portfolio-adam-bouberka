@@ -6,6 +6,15 @@ Je développe des sites vitrines responsive, des interfaces JavaScript et de pet
 
 ## Projets principaux
 
+
+
+### 🤖 site vitrine devlab
+**Python · JavaScript · Telegram Mini Apps SDK**
+
+Site vitrine d'automatisation discord et télégram.
+➡️ [Voir la démo](https://adambbk.github.io/devgram.github.io/)
+
+
 ### 🍽️ Le Boomerang — site restaurant
 **HTML · CSS · JavaScript · Responsive Design · Schema.org**
 
@@ -13,14 +22,6 @@ Site vitrine complet pour le restaurant Le Boomerang à Saint-Savournin : prése
 
 ➡️ [Voir le dépôt](https://github.com/adambbk/le-boomerang-saint-savournin)  
 ➡️ [Voir le site](https://adambbk.github.io/le-boomerang-saint-savournin/)
-
-### 🌐 Dracode
-**HTML · CSS · JavaScript · Formspree · GitHub Pages**
-
-Site vitrine de services web avec offres, formulaire de brief, parcours de commande et intégrations externes.
-
-➡️ [Voir le dépôt](https://github.com/adambbk/Dracode)  
-➡️ [Voir le site](https://adambbk.github.io/Dracode/)
 
 ### 🤖 Mini-app Telegram
 **Python · JavaScript · Telegram Mini Apps SDK**
@@ -30,13 +31,7 @@ Mini-application Telegram accompagnée d’un bot Python. Le projet montre l’o
 ➡️ [Voir le dépôt](https://github.com/adambbk/miniapp-telegram)  
 ➡️ [Voir la démo](https://adambbk.github.io/miniapp-telegram/)
 
-### 🔎 Plugs CRTFS
-**HTML · CSS · JavaScript · Telegram Mini Apps SDK**
 
-Annuaire interactif utilisable dans Telegram ou dans un navigateur : recherche instantanée, filtres dynamiques et rendu sécurisé de données de démonstration.
-
-➡️ [Voir le dépôt](https://github.com/adambbk/miniapp-telegram2)  
-➡️ [Voir la démo](https://adambbk.github.io/miniapp-telegram2/)
 
 ## Compétences mises en pratique
 
