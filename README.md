@@ -64,7 +64,7 @@ Mini-application Telegram accompagnée d'un bot Python. Elle montre l'ouverture 
 
 Une entreprise à Aix-en-Provence ou dans les environs qui accueille un alternant développeur web ou full-stack junior. Je veux participer à des projets concrets, apprendre en équipe et progresser vers le full-stack.
 
-Rythme d'alternance : [À COMPLÉTER : rythme de la 2i Academy]
+Rythme d'alternance : [1 ans - planning alternance: 3 semaine entreprise 1 distanciel]
 
 ## Contact
 
