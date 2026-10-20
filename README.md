@@ -1,25 +1,22 @@
 # Adam Bouberka — Développeur web junior
 
 Développeur web junior basé à Saint-Savournin (Bouches-du-Rhône), entre Aix-en-Provence et Marseille.
-En formation **Développeur Web et Web Mobile** à la **2i Academy d'Aix-en-Provence** depuis septembre 2026, je recherche une **alternance pour 2026-2027**.
+En formation **Développeur Web et Web Mobile** à la **2i Academy d'Aix-en-Provence** depuis septembre 2026, je recherche une **alternance 2026-2027**.
 
 Je réalise des sites vitrines responsive, des interfaces JavaScript et de petites applications connectées à des services externes comme Telegram. J'aime les projets simples à comprendre, agréables à utiliser et faciles à maintenir.
 
-📅 Alternance 2026-2027 · 📍 Aix-en-Provence et alentours · ✉️ [adam.bouberka@gmail.com](mailto:adam.bouberka@gmail.com)
+📅 Alternance 2026-2027 · 📍 Aix-en-Provence et alentours · ✉️ [adam.bouberka@gmail.com](mailto:adam.bouberka@gmail.com) · 📄 [Mon CV (PDF)](CV_Adam_Bouberka_Alternance.pdf)
 
 ---
 
 ## Projets
 
-### 🧪 DEVLAB — site vitrine d'un studio Telegram & Discord
-*Projet personnel de démonstration*
+### 🧩 DEVLAB — commande de canaux Telegram et de serveurs Discord
 
-Concept de site pour un studio qui configurerait des canaux Telegram et des serveurs Discord. Une interface front-end complète, sans backend : navigation entre vues sans rechargement de page, catalogue filtrable avec fiche détaillée, tableau de bord avec graphique, formulaire d'onboarding en 5 étapes, menu mobile et fond animé.
+Site de commande de canaux Telegram (DEVGRAM) et de serveurs Discord (DEVCORD) : formulaire de configuration, aperçu en direct sur téléphone, calcul du prix en temps réel, espace client avec graphique et catalogue de partenaires filtrable.
 
-Les paiements, les prix et les statistiques du tableau de bord sont fictifs.
-
-**Stack :** HTML5 · Tailwind CSS · JavaScript · Chart.js
-➡️ [Voir la démo](https://adambbk.github.io/devgram.github.io/) · [Voir le code](https://github.com/adambbk/devgram.github.io)
+**Stack :** HTML5 · JavaScript · Tailwind CSS (compilé) · Chart.js
+➡️ [Voir le site](https://adambbk.github.io/devgram.github.io/) · [Voir le code](https://github.com/adambbk/devgram.github.io)
 
 ---
 
@@ -34,16 +31,15 @@ Maquette de site pour un restaurant de Saint-Savournin : présentation, galerie 
 ---
 
 ### 🤖 Mini-app Telegram
-*Projet personnel*
 
-Mini-application Telegram accompagnée d'un bot Python. Elle montre l'ouverture d'une Web App depuis Telegram, l'échange de données entre l'interface web et le bot, et la gestion des secrets par variables d'environnement.
+Mini-application Telegram accompagnée d'un bot Python : ouverture d'une Web App depuis Telegram, échange de données entre l'interface web et le bot, secrets gérés par variables d'environnement.
 
 **Stack :** Python · JavaScript · Telegram Mini Apps SDK
 ➡️ [Voir la démo](https://adambbk.github.io/miniapp-telegram/) · [Voir le code](https://github.com/adambbk/miniapp-telegram)
 
 ---
 
-## Compétences mises en pratique
+## Compétences
 
 | Domaine | Technologies |
 |---|---|
@@ -62,13 +58,10 @@ Mini-application Telegram accompagnée d'un bot Python. Elle montre l'ouverture 
 
 ## Ce que je recherche
 
-Une entreprise à Aix-en-Provence ou dans les environs qui accueille un alternant développeur web ou full-stack junior. Je veux participer à des projets concrets, apprendre en équipe et progresser vers le full-stack.
-
-Rythme d'alternance : [1 ans - planning alternance: 3 semaine entreprise 1 distanciel]
+Une entreprise à Aix-en-Provence ou dans les environs qui accueille un alternant développeur web ou full-stack junior, pour participer à des projets concrets, apprendre en équipe et progresser vers le full-stack.
 
 ## Contact
 
 - **E-mail :** [adam.bouberka@gmail.com](mailto:adam.bouberka@gmail.com)
 - **LinkedIn :** [linkedin.com/in/adam-bouberka-741467334](https://www.linkedin.com/in/adam-bouberka-741467334/)
 - **GitHub :** [github.com/adambbk](https://github.com/adambbk)
-- **CV :** [Télécharger mon CV (PDF)](cv_alternance.pdf)
